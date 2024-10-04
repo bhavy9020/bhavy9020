@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bhavy9020
-- 👀 I’m interested in code.
+- 👀 I’m learn code..
+- web devloper
 
 
 <!---
